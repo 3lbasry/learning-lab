@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learning Lab 🚀
 
 This repository documents my software engineering learning journey.
@@ -112,3 +113,7 @@ learning-lab/
 ├── database/
 ├── projects/
 └── README.md
+=======
+# learning-lab
+My software engineering learning journey.
+>>>>>>> aba2d21bc11f981b3ce14b7034d8019dad5a66eb
