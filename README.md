@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Learning Lab 🚀
 
 This repository documents my software engineering learning journey.
