@@ -13,23 +13,19 @@ console.log(age); // Output: 20
 const country = "Sudan ";
 console.log(country); // Output: Sudan
 
+//variables chanlges
+// the first chanlge
 
-//variables chanlges 
-// the first chanlge 
-
-// step one 
+// step one
 x = 10;
 y = 4;
-
 
 console.log("the first number is " + x);
 console.log("the second number is " + y);
 
-// step two 
-
-console.log("sum is " + (x+y));
-console.log("sub is " + (x-y));
-console.log("mul is " + (x*y));
-console.log("div is " + (x/y));
-console.log("mod is " + (x%y));
-
+// step two
+console.log("sum is " + (x + y));
+console.log("sub is " + (x - y));
+console.log("mul is " + x * y);
+console.log("div is " + x / y);
+console.log("mod is " + (x % y));

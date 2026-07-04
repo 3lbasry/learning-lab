@@ -12,5 +12,7 @@ Today I learned the first basics of JavaScript.
   - `const` is block-scoped and cannot be changed after it is declared.
 - I also practiced basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus.
 
-## Summary
+## Summary 
 Day 1 was about understanding the foundation of JavaScript, including output, variables, and simple calculations. These basics are very important for building more advanced programs later.
+
+

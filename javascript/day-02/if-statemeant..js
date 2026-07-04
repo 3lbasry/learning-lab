@@ -25,3 +25,4 @@ else if (age3 >= 18 && age3 <= 60) {
 else {
     console.log("you are eligible to vote but you are old"); // Output: you are eligible to vote but you are old
 }   
+

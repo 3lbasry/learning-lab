@@ -22,7 +22,7 @@ let student = {
     country: "Sudan"
 };
 
-let keys = Object.keys(student);
+Object.keys(student);
 let k = 0;
 while (k < keys.length) {
     let key = keys[k];
